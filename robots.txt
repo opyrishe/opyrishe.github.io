@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://opyrishe.github.io/sitemap.html.gz
+Sitemap: https://opyrishe.github.io/app/sitemap.html.gz
+Sitemap: https://opyrishe.github.io/assets/sitemap.html.gz
+Sitemap: https://opyrishe.github.io/css/sitemap.html.gz
+Sitemap: https://opyrishe.github.io/includes/sitemap.html.gz
+Sitemap: https://opyrishe.github.io/item/sitemap.html.gz
+Sitemap: https://opyrishe.github.io/src/sitemap.html.gz
